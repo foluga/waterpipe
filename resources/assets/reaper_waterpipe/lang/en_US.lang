@@ -1,0 +1,14 @@
+﻿
+tile.waterPipe.greenWaterPipe.name=Зеленый кальян
+tile.waterPipe.redWaterPipe.name=Красный кальян
+tile.waterPipe.blueWaterPipe.name=Синий кальян
+tile.waterPipe.blackWaterPipe.name=Черный кальян
+tile.waterPipe.limeWaterPipe.name=Лаймовый кальян
+tile.waterPipe.orangeWaterPipe.name=Оранжевый кальян
+tile.waterPipe.cyanWaterPipe.name=Голубой кальян
+tile.waterPipe.pinkWaterPipe.name=Розовый кальян
+tile.water_pipe.name=Water Pipe
+item.ring.name=Трубка от кальяна
+item.chaha.name=Чаша для кальяна
+item.shahta.name=Шахта для кальяна
+item.colba.name=Колба для кальяна

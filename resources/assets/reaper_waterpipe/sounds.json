@@ -1,0 +1,13 @@
+{
+    "Example_sounds_one":
+    {
+        "category": "block",
+        "sounds":
+        [
+            {
+                "name": "example_sounds_one",
+                "stream": true
+            }
+        ]
+    }
+   }

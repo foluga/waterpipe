@@ -1,0 +1,18 @@
+[
+{
+"modid": "reaper_waterpipe",
+"name": "Water Pipe mod",
+"description": "Кальянчик)",
+"version": "1.1",
+"credits": "Created by foluga",
+"logoFile": "Waterpipe_logo.png",
+"mcversion": "",
+"url": "",
+"updateUrl": "",
+"authors": [ "foluga" ],
+"parent":"",
+"screenshots": [],
+"dependencies": [
+"mod_MinecraftForge" ]
+}
+]
